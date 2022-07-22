@@ -28,7 +28,7 @@ public class Rectangle {
         this.length = length;
     }
 
-    //getter method for width
+    //getter method for width9
     public double getWidth(){
         return width;
     }
